@@ -1,4 +1,5 @@
  This is a
+<<<<<<< HEAD
 adding line 2 from master
 adding line no 2 to a
 adding line no 2 to 
@@ -7,3 +8,5 @@ final code
 final
 finall
 final
+=======
+>>>>>>> 4ef0d30... adding three files now
